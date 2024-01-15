@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 💬 Checkout my [portfolio](https://maxliu2001.github.io/m.portfolio/)
 
-📫 Reach me via [Linkedin](https://www.linkedin.com/in/max-yinghao-liu-a7948a1ab/)
+📫 Reach me via [Linkedin](https://www.linkedin.com/in/max-liu-a7948a1ab/)
 
 😄 Pronouns: He/Him/His
 
