@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📖 I’m currently an undergraduate student majoring in computer science and data science at the University of Michigan, Ann Arbor.
+📖 I’m currently working @ LinkedIn as a system & infra SWE. I finished my undergrad at the University of Michigan, Ann Arbor with a computer science and data science degree.
 
-🌱 I’m currently learning robotics navigation/perception, and more SDE-related tech stacks.
+🌱 I’m passionate about building reliable and data driven large scale systems, I'm also interested in the intersection between systems and robotics navigation/perception.
 
-💼 I’m looking to expand my network in software engineering, machine learning/AI, infrastructure, and robotics. 
+💼 I’m looking to expand my network in software engineering, ML/AI, and robotics. 
 
 💬 Checkout my [portfolio](https://maxliu2001.github.io/m.portfolio/)
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ansible,aws,bash,bootstrap,cpp,css,d3,dynamodb,express,figma,flask,gcp,githubactions,graphql,java,js,jquery,html,linux,materialui,mongodb,nextjs,nodejs,postman,py,pytorch,r,raspberrypi,react,ros,spring,sqlite,selenium,swift,tailwind,tensorflow,vercel&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ansible,aws,bash,bootstrap,cpp,css,d3,dynamodb,express,figma,flask,gcp,githubactions,graphql,java,js,jquery,html,linux,materialui,mongodb,nextjs,nodejs,postman,py,pytorch,r,raspberrypi,react,ros,spring,sqlite,selenium,swift,tailwind,tensorflow,vercel,awstidb&perline=12" />
   </a>
 </p>
 
